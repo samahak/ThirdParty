@@ -3,21 +3,21 @@
 Third Party Open Source에 대해서 OS별로 compile 하는 방법을 정리.
 
 1. poco
-  - 설명 : 
-  - OS : 
+  - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
+  - Explain of Windows, Android, iOS, Linux platform.
 
 2. glib
-  - 설명 : 
-  - OS : 
+  -  
+  - Explain of 
 
 3. curl
-  - 설명 : 
-  - OS : 
+  -  
+  - Explain of 
 
 4. protobuf
-  - 설명 : 
-  - OS : 
+  -  
+  - Explain of 
 
 5. rabbitmq
-  - 설명 : 
-  - OS : 
+  -  
+  -  Explain of 
