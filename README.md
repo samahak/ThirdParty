@@ -4,7 +4,7 @@ Explain about how to compile Third Party open source each OS.
 (For Korean)
 
 
-1. poco
+1. POCO
   - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
   - Explain of Windows, Android, iOS, Linux platform.
 
@@ -19,7 +19,7 @@ Explain about how to compile Third Party open source each OS.
   - Explain of Windows, Android, iOS platform.
 
 
-4. protobuf
+4. Protobuf
   - Protocol buffers are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data – think XML, but smaller, faster, and simpler. You define how you want your data to be structured once, then you can use special generated source code to easily write and read your structured data to and from a variety of data streams and using a variety of languages.
   - Explain of Windows, Android, iOS platform.
 
@@ -49,7 +49,7 @@ Explain about how to compile Third Party open source each OS.
   - Explain of Windows, Android, iOS, Linux platform.
 
 
-10. ffmpeg
+10. FFmpeg
   - FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge. No matter if they were designed by some standards committee, the community or a corporation. It is also highly portable: FFmpeg compiles, runs, and passes our testing infrastructure FATE across Linux, Mac OS X, Microsoft Windows, the BSDs, Solaris, etc. under a wide variety of build environments, machine architectures, and configurations.
   - Explain of Windows, Android, iOS, Linux platform.
 
