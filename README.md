@@ -1,6 +1,6 @@
 # ThirdParty
 
-Third Party Open Source에 대해서 OS별로 compile 하는 방법을 정리.
+Explain about how to compile Third Party open source each OS.
 
 1. poco
   - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
